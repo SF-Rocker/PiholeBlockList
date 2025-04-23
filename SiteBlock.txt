@@ -148,6 +148,8 @@ video.twimg.com
 upload.twitter.com
 api.x.com
 x.co
+x.com/home
+x.com/grok
 syndication.x.com
 platform.x.com
 ton.x.com
