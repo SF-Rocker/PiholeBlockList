@@ -155,3 +155,5 @@ platform.x.com
 ton.x.com
 upload.x.com
 api.x.com
+x.com/home
+x.com/grok
