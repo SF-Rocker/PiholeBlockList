@@ -144,7 +144,13 @@ pbs.twimg.com
 t.co
 syndication.twitter.com
 platform.twitter.com
+m.t.co
+m pbs.twimg.com
+m.abs.twimg.com
+m.platform.twitter.com
 analytics.twitter.com
+m.analytics.x.com
+m.analytics.twitter.com
 ton.twitter.com
 video.twimg.com
 upload.twitter.com
