@@ -172,3 +172,4 @@ x.com/grok
 static.hotjar.com
 stats.g.doubleclick.net
 googletagmanager.com
+surveystarz.com
