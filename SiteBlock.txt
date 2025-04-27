@@ -173,3 +173,5 @@ static.hotjar.com
 stats.g.doubleclick.net
 googletagmanager.com
 surveystarz.com
+zm.nostocbark.com
+ziply.mm.fcix.net
