@@ -159,6 +159,10 @@ x.co
 x.com/home
 x.com/grok
 syndication.x.com
+surveystarz.com
+m.twimg.com
+m.abs.twimg.com
+m.pbs.twimg.com
 platform.x.com
 ton.x.com
 upload.x.com
