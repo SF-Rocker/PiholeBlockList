@@ -160,6 +160,12 @@ x.com/home
 x.com/grok
 syndication.x.com
 surveystarz.com
+telemetry.sdk.inmobi.com
+dsp.adkernel.com
+match.prod.bidr.io
+sync-tm.everesttech.net
+fundingchoicesmessages.google.com
+googleads.g.doubleclick.net
 m.twimg.com
 m.abs.twimg.com
 m.pbs.twimg.com
