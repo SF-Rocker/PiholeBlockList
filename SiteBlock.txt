@@ -198,4 +198,12 @@ app-measurement.com
 sdk-api-v1.singular.net
 telemetry.sdk.inmobi.com
 google-analytics.com
+googleads4.g.doubleclick.net
+pagead2.googlesyndication.com
+googlesyndication.com
+fundingchoicesmessages.google.com
+www.googletagmanager.com
+securepubads.g.doubleclick.net
+s0.2mdn.net
+inmobi.com
 
