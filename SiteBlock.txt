@@ -194,4 +194,6 @@ h33t.org
 demonoid.com
 demonoid.org
 tpc.googlesyndication.com
+app-measurement.com
+www.google-analytics.com
 
