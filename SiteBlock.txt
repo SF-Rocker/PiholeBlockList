@@ -195,5 +195,7 @@ demonoid.com
 demonoid.org
 tpc.googlesyndication.com
 app-measurement.com
-www.google-analytics.com
+sdk-api-v1.singular.net
+telemetry.sdk.inmobi.com
+google-analytics.com
 
