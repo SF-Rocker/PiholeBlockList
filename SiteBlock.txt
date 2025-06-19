@@ -202,8 +202,17 @@ googleads4.g.doubleclick.net
 pagead2.googlesyndication.com
 googlesyndication.com
 fundingchoicesmessages.google.com
-www.googletagmanager.com
+googletagmanager.com
 securepubads.g.doubleclick.net
 s0.2mdn.net
 inmobi.com
+ad-delivery.net
+id.rlcdn.com
+m.googletagmanager.com
+m.ad-delivery.net
+m.h33t.net
+m.xvideos.com
+m.xnxx.com
+m.pornhub.com
+
 
