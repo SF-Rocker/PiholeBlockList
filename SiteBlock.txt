@@ -214,5 +214,8 @@ m.h33t.net
 m.xvideos.com
 m.xnxx.com
 m.pornhub.com
+sdk-api-v1.singular.net
+m.sdk-api-v1.singular.net
+
 
 
