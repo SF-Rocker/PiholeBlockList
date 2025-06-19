@@ -173,8 +173,6 @@ ton.x.com
 upload.x.com
 api.x.com
 unhappyweakness.com
-x.com/home
-x.com/grok
 static.hotjar.com
 stats.g.doubleclick.net
 googletagmanager.com
