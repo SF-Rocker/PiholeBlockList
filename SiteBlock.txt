@@ -212,5 +212,9 @@ m.xnxx.com
 m.pornhub.com
 sdk-api-v1.singular.net
 m.sdk-api-v1.singular.net
+westerntreads.com
+*.myshopify.com
+dns21.hichina.com
+dns22.hichina.com
 
 
