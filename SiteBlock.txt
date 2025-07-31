@@ -213,18 +213,9 @@ m.pornhub.com
 sdk-api-v1.singular.net
 m.sdk-api-v1.singular.net
 westerntreads.com
-*.myshopify.com
+m.westerntreads.com
 dns21.hichina.com
 dns22.hichina.com
-shopify.com
-shopifysvc.com
-monorail-edge.shopifysvc.com
-federatedcompute-pa.googleapis.com
-firebaselogging-pa.googleapis.com
-androidattestationvalidation-pa.googleapis.com
-firebaseremoteconfigrealtime.googleapis.com
-cdn.codeblackbelt.com
-monorail-edge.tm.shopifysvc.com
-fonts.shopifycdn.com
-
+cdn.westerntreads.com
+cdn1.westerntreads.com
 
