@@ -215,10 +215,12 @@ googleads4.g.doubleclick.net
 pagead2.googlesyndication.com
 googlesyndication.com
 fundingchoicesmessages.google.com
+cdn77-pic.xnxx-cdn.com
 googletagmanager.com
 securepubads.g.doubleclick.net
 s0.2mdn.net
 inmobi.com
+
 ad-delivery.net
 id.rlcdn.com
 m.googletagmanager.com
